@@ -26,8 +26,18 @@ HIDDEN PICTURE MENU
 To display a full screen detailed diagnostic view of the current input mode and settings, while on a HDMI input source, open `settings > general > Programmes`, and hover over `Programme Tuning & Settings` and press `111111`
 A full screen display showing media diagnostic information should appear. Press back to exit.
 
-## Service Menu
+## Service Menu (InStart)
 There is a service menu that can only be accessed by purchasing a specific remote control (this can be found on Amazon/eBay). This menu has advanced settings however this is not designed for consumer use and can cause permanent damage to the TV.
+THe service menu can be opened with the [https://github.com/Maassoft/ColorControl](https://github.com/Maassoft/ColorControl) tool.  
+
+Steps to open service menu:
+1. open ColorControl
+2. Set `Show advanced options under the expert button` on the options tab
+2. Change to the LG remote tab
+3. If the TV is not detected - add the device with the ip address
+4. Accept the prompt on the TV to allow access
+5. select `Expert > instart`
+6. close the menu with the TV remote and the home button.
 
 
 ## Settings Menu Index
